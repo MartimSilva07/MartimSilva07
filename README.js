@@ -1,12 +1,21 @@
- 
-https://github.com/anuraghazra/github-readme-stats
+
+# **Hey**
+
+- My name is Martim Silva
+
+- ***I have 15 yr old***
+
+- I am from Portugal
+
+- I´ like programming and hacking
+
+- I use 2 operating systems windows 10 and Kali Linux
+
+  
+
 
 📌 A little more about me...
 const MartimSilva07 = {
-    firstName: "Martim",
-    lastName: "Silva",
-    age: 15,
-    country: "Portugal",
     frontend: "Javascript,HTML,CSS,React,vue,typescript"
     languagesIWantedToLearn: ["Python", "Java"],
     askMeAbout: ["Web development", "Mobile development", "Technology", "gaming development.],
@@ -27,4 +36,5 @@ const MartimSilva07 = {
     },
     Mydream: "be the CEO or CEO of a large company"
 };
-https://dsc.bio/4455#3910/
+
+
