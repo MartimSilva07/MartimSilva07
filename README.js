@@ -1,9 +1,9 @@
 
-# **Hey**
+# Hey
 
 - My name is Martim Silva
 
-- ***I have 15 yr old***
+-I have 15 yr old
 
 - I am from Portugal
 
@@ -13,7 +13,7 @@
 
   
 
-
+´´´javascript
 📌 A little more about me...
 const MartimSilva07 = {
     frontend: "Javascript,HTML,CSS,React,vue,typescript"
@@ -36,5 +36,5 @@ const MartimSilva07 = {
     },
     Mydream: "be the CEO or CEO of a large company"
 };
-
+´´´
 
