@@ -33,7 +33,7 @@ const MartimSilva07 = {
         },
         databases: ["Mongo", "MySQL", "SQLite"]
     },
-    Mydream: "be the CEO or CEO of a large company"
+    
 };
 ```
 
